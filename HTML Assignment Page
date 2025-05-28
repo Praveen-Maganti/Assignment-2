@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+    <div style="padding:30px;font-family:">
+        <h1 style="font-size:30px;text-align:center">HTML Assignment</h1>
+        <hr style="border:3px solid red">
+
+        <p style="font-size:20px">It is my <b>First HTML</b> Assignment. I am exited to learn  HTML , and i want to make carrer in <b>web designing.</b><br></p>
+        
+        <h1 style="font-size:26px">Introduction to HTML</h1>
+        
+        <p style="font-size:18px">HTML <span style="font-style:italic;">(Hypertext Markup Language) </span> is used to create document on the <u>world wide web</u> <span style="font-style:italic;"> It is simply a collection of certain key words called "Tags" that are helpful  to document and to be displayed using a browser on Internet.</span> HTML was deployed by<b> TIM BERNERS-Lee </b>in 1992.</p>
+
+    </div>
+</body>
+</html>
