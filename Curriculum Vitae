@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<style>
+     body{
+        background-image:url("https://images.wallpaperscraft.com/image/single/cup_coffee_books_156306_3840x2400.jpg");
+        background-size:cover;
+        height:100vh;
+        width:100vw;
+        color:white;
+        padding-left:15px;
+     }
+     p{
+        font-size:18px;
+     }
+     h1{
+        font-size:28px;
+        font-weight:bold;
+     }
+</style>
+<body>
+    <h1 style="text-align:center;color:red;font-weight:30px">CURRICULUM VITAE</h1>
+     <h1>Infomax Academy</h1>
+    <p> <b>Address:</b> G.R.Complex Preetam Nagar, Dhoomanganj</p>
+    <p>Prayagraj, Uttar Pradesh - 211011<br></p>
+    <p> <b>Mobile :</b> +91 8874588766<br></p>
+    <p> <b>Email :</b> info@infomaxacademy.com</p>
+    <hr>
+    <h1>Carrer Objective</h1>
+    <p>To perceive a carrer in a renowed firm with dedicated efforts and to associate myself with an organization that gives me a chance to update my knowledge.</p>
+
+    <h1><u>Educational Qualification :</u></h1>
+    <p>Graduation B.Com (Computer Science) Under Ounania University from Sandeepani Degree college, Kamareddy Kamareddy-2009.
+     <br></p>
+    <p>Intermediate CEC under Board of Intermediate Education, from Sandeepani Je. College, Kamareddy & 2006.</p>
+    <p>SSC from Board of Secondary Education, Triveni High School, Domakonda a 2004.</p>
+    <h1>Computer Skills:</h1>
+    <p>P.G.D.C.A (Post Graduate Diploma in Computer Application)</p>
+    <p>ADCA (Advanced Diploma in Computer Application)</p>
+    <p>D.T.P (Desktop Publisher)</p>
+    <p>Operation Systems (XP, 2000, 98, and Other)</p>
+</body>
+</html>
